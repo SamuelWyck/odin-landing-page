@@ -57,8 +57,7 @@ li a {
 }
 
 .banner {
-    margin: 100px 0%;
-    padding: 0% 10%;
+    margin: 100px 10%;
     display: flex;
     justify-content: center;
     gap: 100px;
